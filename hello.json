@@ -1,0 +1,83 @@
+{
+    "work_history_before_kws": {
+      "soft_skills": [],
+      "technical_skills": [
+        "Python",
+        "Machine Learning",
+        "Excel"
+      ],
+      "experience": [
+        "Data Administrator"
+      ],
+      "responsibilities": [
+        "Managed large volumes of unstructured data",
+        "Received public requests in text format and manually categorized them into different types",
+        "Built a dashboard using Excel to aggregate key data points and present them in weekly meetings with stakeholders",
+        "Using Python and simple machine learning models, built pipeline to transform text-based public requests into digital records",
+        "Led a team of three individuals in the development of a running application capable of handling up to 3,000 public requests every day",
+        "Continued to evaluate and enhance the machine learning model to improve accuracy and efficiency",
+        "Overcame bureaucratic challenges to implement new features and optimize the application"
+      ]
+    },
+    "job_description_kws": {
+      "soft_skills": [],
+      "technical_skills": [
+        "analytics methods",
+        "big data",
+        "modern software tools",
+        "data quality"
+      ],
+      "experience": [
+        "programming"
+      ],
+      "responsibilities": [
+        "solve business-related issues",
+        "implement appropriate solutions",
+        "accompany SAP-based processes and functions",
+        "analyze and process big data",
+        "evaluate the knowledge gained to improve data quality"
+      ]
+    },
+    "overlap_before": {
+      "soft_skills": 0,
+      "technical_skills": 25,
+      "experience": 0,
+      "responsibilities": 0
+    },
+    "responsibilities_rewritten": [
+      "Managed large volumes of unstructured data and solved business-related issues by implementing appropriate solutions using modern software tools and analytics methods. Evaluated the knowledge gained to improve data quality.",
+      "Analyzed and processed big data by applying programming skills and modern software tools. Developed techniques to extract information using OCR-based data pipeline in Python. Continuously evaluated and enhanced the machine learning model to improve accuracy and efficiency.",
+      "Led and managed a team of three individuals in the development of a running application capable of handling up to 3,000 public requests every day. Successfully implemented a data-driven approach to improve the efficiency and accuracy of the application. Evaluated the knowledge gained to improve data quality.",
+      "Received public requests in text format and manually categorized them into different types. Built a dashboard using Excel to aggregate key data points and present them in weekly meetings with stakeholders. Effectively accompanied SAP-based processes and functions to ensure smooth operations.",
+      "Continued to evaluate and enhance the machine learning model to improve accuracy and efficiency, overcoming bureaucratic challenges to implement new features and optimize the application. Applied programming skills and big data knowledge to successfully improve the efficiency and accuracy of the data categorization and aggregation process."
+    ],
+    "responsibilities_rewritten_kws": {
+      "soft_skills": [],
+      "technical_skills": [
+        "programming",
+        "big data",
+        "OCR",
+        "machine learning"
+      ],
+      "experience": [
+        "data management",
+        "software tool implementation",
+        "analytics",
+        "team management"
+      ],
+      "responsibilities": [
+        "data processing",
+        "information extraction",
+        "application development",
+        "data categorization",
+        "dashboard building",
+        "process and function accompaniment"
+      ]
+    },
+    "overlap_after": {
+      "soft_skills": 0,
+      "technical_skills": 33,
+      "experience": 12,
+      "responsibilities": 16
+    }
+  }
